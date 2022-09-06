@@ -18,7 +18,7 @@
 - 通用材质 Common(Opaque & mask)
 - 金属车漆 Carpaint
 - 转子表面 Rotor
-- 真实水体 WaterMaterial
+- 真实水体（附水线解决方案） WaterMaterial(With WaterLine resolution)
 - 能量罩 EnergyShield
 - 全息材质 Hologram
 - 布料 Cloth(also for leather & carpet)
